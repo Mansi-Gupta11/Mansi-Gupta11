@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aastha Agarwal</h1>
+<h1 align="center">Hi 👋, I'm Mansi Gupta</h1>
 <h3 align="center">I'm a Aspiring Software Developer,currently learning React.js and JavaScript </h3>
 
 ## 🌐 Socials:
