@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h1 align="center">I'm a Aspiring Software Developer,currently learning React.js and JavaScript </h1>
+<h1 align="center">Hi 👋, I'm Aastha Agarwal</h1>
+<h3 align="center">I'm a Aspiring Software Developer,currently learning React.js and JavaScript </h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mansi-gupta-b7a916205) 
